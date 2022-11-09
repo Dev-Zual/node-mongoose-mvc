@@ -1,0 +1,98 @@
+[
+  {
+    "_id": "63497b5a33141a6392d10108",
+    "name": "Dal",
+    "description": "Dhal onk moja",
+    "price": 70,
+    "unit": "kg",
+    "quantity": 200,
+    "status": "in-stock",
+    "createdAt": "2022-10-14T15:08:10.018Z",
+    "updatedAt": "2022-10-19T18:43:51.683Z",
+    "__v": 0
+  },
+  {
+    "_id": "63497e2733141a6392d10116",
+    "name": "mobile",
+    "description": "Mobile onk dami dam 17000",
+    "price": 17000,
+    "unit": "pcs",
+    "quantity": 1,
+    "status": "in-stock",
+    "createdAt": "2022-10-14T15:20:07.278Z",
+    "updatedAt": "2022-10-19T08:11:46.820Z",
+    "__v": 0
+  },
+  {
+    "_id": "63497e3633141a6392d1011a",
+    "name": "charger",
+    "description": "dhal onk mulloban",
+    "price": 60,
+    "unit": "kg",
+    "quantity": 600,
+    "status": "in-stock",
+    "createdAt": "2022-10-14T15:20:22.781Z",
+    "updatedAt": "2022-10-14T15:20:22.781Z",
+    "__v": 0
+  },
+  {
+    "_id": "63498e3659d23685b99f1c5e",
+    "name": "mango",
+    "description": "mango onk moja",
+    "price": 70,
+    "unit": "kg",
+    "quantity": 700,
+    "status": "in-stock",
+    "createdAt": "2022-10-14T16:28:38.486Z",
+    "updatedAt": "2022-10-14T16:28:38.486Z",
+    "__v": 0
+  },
+  {
+    "_id": "63498f56bd5696691522704e",
+    "name": "t-shirt",
+    "description": "mango onk moja",
+    "price": 70,
+    "unit": "kg",
+    "quantity": 0,
+    "status": "out-of-stock",
+    "createdAt": "2022-10-14T16:33:26.715Z",
+    "updatedAt": "2022-10-14T16:33:26.715Z",
+    "__v": 0
+  },
+  {
+    "_id": "6349abeb724e5ceedb75f8be",
+    "name": "applle",
+    "description": "apple onk moja",
+    "price": 70,
+    "unit": "kg",
+    "quantity": 0,
+    "status": "out-of-stock",
+    "createdAt": "2022-10-14T18:35:23.517Z",
+    "updatedAt": "2022-10-14T18:35:23.517Z",
+    "__v": 0
+  },
+  {
+    "_id": "6349ae107c973b3aadd2f510",
+    "name": "laptop",
+    "description": "laptop onk dami",
+    "price": 70000,
+    "unit": "pcs",
+    "quantity": 0,
+    "status": "out-of-stock",
+    "createdAt": "2022-10-14T18:44:32.383Z",
+    "updatedAt": "2022-10-14T18:44:32.383Z",
+    "__v": 0
+  },
+  {
+    "_id": "634f95e7b174a5356158f838",
+    "name": "guiter",
+    "description": "laptop onk dami",
+    "price": 70000,
+    "unit": "pcs",
+    "quantity": 0,
+    "status": "out-of-stock",
+    "createdAt": "2022-10-19T06:15:03.028Z",
+    "updatedAt": "2022-10-19T06:15:03.028Z",
+    "__v": 0
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Zual Rana",
+    "brand": {
+      "name": "fresh",
+      "id": "6357e0393f7707f2ee302469"
+    },
+    "contactNumber": ["01611111111", "01611111112"],
+    "emergencyContactNumber": "01611111113",
+    "tradeLicenseNumber": 1234567890,
+    "presentAddress": "Sobujpur, katherbil, dewanganj, jamalpur",
+    "permanentAddress": "Sobujpur, katherbil, dewanganj, jamalpur",
+    "location": "mymenshing",
+    "nationalIdImage": "www.example.com"
+  },
+  {
+    "name": "jhankar mahbub",
+    "email": "jhaankak@gmail.com",
+    "brand": {
+      "name": "aci",
+      "id": "6358b9fd22b6b80d9c5cd9ac"
+    },
+    "contactNumber": ["01611111123", "01611111152"],
+    "emergencyContactNumber": "01611110000",
+    "tradeLicenseNumber": 12345678000,
+    "presentAddress": "Dhaka, katherbil, dewanganj, dhaka",
+    "permanentAddress": "dhaka, katherbil, dewanganj, dhaka",
+    "location": "dhaka",
+    "nationalIdImage": "www.example.com"
+  }
+]
